@@ -4,7 +4,8 @@
 
 基于fabric.js的简单的绘画工具, 框架:Vue3+vite, UI库: element-plus
 
-链接： [https://gitee.com/ddp007/simple-draw](https://gitee.com/ddp007/simple-draw)
+源代码： [https://gitee.com/ddp007/simple-draw](https://gitee.com/ddp007/simple-draw)
+访问网址： [https://pandashuai.github.io/](https://pandashuai.github.io/)
 
 ## 目前的功能有:
 
